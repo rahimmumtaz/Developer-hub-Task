@@ -42,7 +42,6 @@ A professional corporate website for a medical credentialing company built with 
 - ✅ Scroll reveal animations
 - ✅ Accessibility-friendly UI
 
-## Project Structure
 quad-solutions/
 ├── index.html # Homepage
 ├── about.html # About Company
