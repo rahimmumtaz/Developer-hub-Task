@@ -43,3 +43,20 @@ A professional corporate website for a medical credentialing company built with 
 - ✅ Accessibility-friendly UI
 
 ## Project Structure
+quad-solutions/
+├── index.html # Homepage
+├── about.html # About Company
+├── services.html # Services page
+├── process.html # Process/Workflow
+├── testimonials.html # Testimonials page
+├── contact.html # Contact + Lead Generation Form
+├── faq.html # FAQ Section
+├── css/
+│ └── style.css # Complete styling (responsive)
+├── js/
+│ └── main.js # All interactions + form validation
+├── assets/ # Images folder (optional)
+├── README.md # This file
+
+
+## Project Structure
