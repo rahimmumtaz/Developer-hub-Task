@@ -40,8 +40,9 @@ A professional corporate website for a medical credentialing company built with 
 - ✅ Mobile hamburger menu
 - ✅ Counter animation on stats
 - ✅ Scroll reveal animations
-- ✅ Accessibility-friendly UI
+- ✅ Accessibility-friendly
 
+## Project Structure
 quad-solutions/
 ├── index.html # Homepage
 ├── about.html # About Company
@@ -58,4 +59,3 @@ quad-solutions/
 ├── README.md # This file
 
 
-## Project Structure
